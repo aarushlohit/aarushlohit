@@ -30,6 +30,7 @@ Developer, Artist & Student
 <p align="left">
     <a href="https://www.youtube.com/@aarushlohitscienceworld4145" target="_blank" rel="noreferrer">
         <img src="https://imgs.search.brave.com/x6X5AC15C1oxgs2e_yKp6u-xDgH9x8we7o5tnWB83wM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS8x/MjgvMTM4NC8xMzg0/MDYwLnBuZw" width="32" height="32" />
+
    
   </a>
     <a href="https://www.instagram.com/aarushlohit_01" target="_blank" rel="noreferrer">
