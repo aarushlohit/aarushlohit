@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/saru2406?logo=github&style=for-the-
 
 ### Socials
 <p align="left"> <a href="https://www.instagram.com/aarushlohit_01/" target="_blank" rel="noreferrer"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/tBxa1IFcTQH.png" width="32" height="32" /></a> <a href="https://www.github.com/aarushlohit" target="_blank" rel="noreferrer"><img 
-
+<a href="https://open.spotify.com/artist/7K52MHzGtyC8XuOJVI11tl" target="_blank" rel="noreferrer"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-512.png" width="32" height="32" /></a> <a href="https://www.github.com/aarushlohit" target="_blank" rel="noreferrer"><img 
 
 </p>
 
