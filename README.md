@@ -6,36 +6,26 @@ Developer, Artist & Student
 
 * 🌍 I'm from india
 * 😁 New projects are coming soon :) ....
-* 😰 Learning Game develeopment,hacking
-* 😼 Also learning rust
+* 😰 Learning App develeopment,Hacking
+* 😼 Also learning Flutter
 * 🐧 I use arch btw...
 
-<a href="https://www.github.com/heartbrokencat" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/heartbrokencat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
 
-### My Skills currently
+<a href="https://www.github.com/heartbrokencat" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/saru2406?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Skills Learning currently
 
 <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://docs.python.org/3/_static/py.svg" width="64" height="64" alt="Python" />
-    </a>
-    <a href="kalilinux.org" target="_blank" rel="noreferrer">
-        <img src="https://linux.org/icons/128_kali.png" width="64" height="64" alt="Hacking" />
-    </a>
+<a href="python.org" target="_blank" rel="noreferrer"><img src="https://docs.python.org/3/_static/py.svg" width="32" height="32" alt="Python" /></a>
+<a href="https://www.c-language.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=48&id=40670&format=png" width="32" height="32" alt="C Programming" /></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="35" height="35" alt="Java" /></a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" width="32" height="32" alt="After Effects" /></a>
 </p>
 
+
 ### Socials
+<p align="left"> <a href="https://www.instagram.com/aarushlohit_01/" target="_blank" rel="noreferrer"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/tBxa1IFcTQH.png" width="32" height="32" /></a> <a href="https://www.github.com/aarushlohit" target="_blank" rel="noreferrer"><img 
 
-<p align="left">
-    <a href="https://www.youtube.com/@aarushlohitscienceworld4145" target="_blank" rel="noreferrer">
-        <img src="https://imgs.search.brave.com/x6X5AC15C1oxgs2e_yKp6u-xDgH9x8we7o5tnWB83wM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS8x/MjgvMTM4NC8xMzg0/MDYwLnBuZw" width="32" height="32" />
-
-   
-  </a>
-    <a href="https://www.instagram.com/aarushlohit_01" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="32" height="32" alt="Instagram" />
-    </a>
 
 </p>
 
