@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/saru2406?logo=github&style=for-the-
 <a href="https://www.c-language.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=48&id=40670&format=png" width="32" height="32" alt="C Programming" /></a>
 <a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=48&id=7I3BjCqe9rjG&format=png" width="32" height="32" alt="Flutter" /></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-logos-icons-1720088.png?f=webp" width="30" height="32" alt="Java" /></a>
-<a href="https://www.isocpp.org" target="_blank" rel="noreferrer"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-c-plus-3d-logo-download-in-png-blend-fbx-gltf-file-formats--code-format-social-media-pack-company-brand-logos-4781250.png" width="32" height="32" alt="C++ Programming" /></a>
+<a href="https://www.isocpp.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=TpULddJc4gTh&format=png" width="32" height="32" alt="C++ Programming" /></a>
 </p>
 
 
