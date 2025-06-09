@@ -18,8 +18,9 @@ src="https://img.shields.io/github/followers/saru2406?logo=github&style=for-the-
 <p align="left">
 <a href="python.org" target="_blank" rel="noreferrer"><img src="https://docs.python.org/3/_static/py.svg" width="32" height="32" alt="Python" /></a>
 <a href="https://www.c-language.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=48&id=40670&format=png" width="32" height="32" alt="C Programming" /></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="35" height="35" alt="Java" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" width="32" height="32" alt="After Effects" /></a>
+<a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=48&id=7I3BjCqe9rjG&format=png" width="32" height="32" alt="Flutter" /></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-logos-icons-1720088.png?f=webp" width="30" height="32" alt="Java" /></a>
+<a href="https://www.isocpp.org" target="_blank" rel="noreferrer"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-c-plus-3d-logo-download-in-png-blend-fbx-gltf-file-formats--code-format-social-media-pack-company-brand-logos-4781250.png" width="32" height="32" alt="C++ Programming" /></a>
 </p>
 
 
