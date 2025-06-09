@@ -1,7 +1,7 @@
 Hi Im aarushlohit🐶
 ===============================
 
-Developer, Artist & Student
+Developer, Spotify Artist(Lyricist) & Student
 -----------------------------
 
 * 🌍 I'm from india
