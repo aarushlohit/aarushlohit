@@ -90,10 +90,9 @@ class AarushLohit:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aarushlohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aarushlohit&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushlohit&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=6" />
+
 
 </div>
 
