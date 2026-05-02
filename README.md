@@ -51,27 +51,69 @@
 | 10 | 🔭 **Nikto** | Web Server Scanner | ![Nikto](https://img.shields.io/badge/Nikto-6A0DAD?style=flat-square&logoColor=white) |
 
 </div>
----
+
 
 ## 📱 Dev Projects
-
+<br>
 <div align="center">
 
-| Project | Description | Stack |
-|:---:|:---|:---:|
-| 🤖 [friday-AI](https://github.com/aarushlohit/friday-AI) | AI assistant with Python GUI | `Python` |
-| 🛍️ [ZairokApp](https://github.com/aarushlohit/ZairokApp) | One-stop directory for 100% free AI tools | `Flutter` `Dart` |
-| 🚀 [AppLauncher](https://github.com/aarushlohit/AppLauncher) | Custom app launcher | `Flutter` `Dart` |
-| 🪟 [ClaraInstaller](https://github.com/aarushlohit/ClaraInstaller) | Windows → Linux dual-boot migration tool | `Python` |
-| ⚡ [ArchX-Automated-Pkg-Installer](https://github.com/aarushlohit/ArchX-Automated-Pkg-Installer) | Automated Arch Linux environment setup | `Shell` |
-| 🔀 [Aaru-GitSimplified](https://github.com/aarushlohit/Aaru-GitSimplified) | Git workflow simplification CLI | `Python` |
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    🚀  WHAT I'VE BUILT  🚀                       ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/aarushlohit/friday-AI">
+        <img src="https://img.shields.io/badge/🤖_friday--AI-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </a>
+      <br/><sub>AI assistant with Python GUI</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/aarushlohit/ZairokApp">
+        <img src="https://img.shields.io/badge/🛍️_ZairokApp-Flutter-54C5F8?style=for-the-badge&logo=flutter&logoColor=white" />
+      </a>
+      <br/><sub>100% free AI tools directory</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/aarushlohit/ClaraInstaller">
+        <img src="https://img.shields.io/badge/🪟_ClaraInstaller-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </a>
+      <br/><sub>Windows → Linux migration tool</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/aarushlohit/ArchX-Automated-Pkg-Installer">
+        <img src="https://img.shields.io/badge/⚡_ArchX_Installer-Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+      </a>
+      <br/><sub>Automated Arch Linux setup</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/aarushlohit/AppLauncher">
+        <img src="https://img.shields.io/badge/🚀_AppLauncher-Flutter-54C5F8?style=for-the-badge&logo=flutter&logoColor=white" />
+      </a>
+      <br/><sub>Custom Flutter app launcher</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/aarushlohit/Aaru-GitSimplified">
+        <img src="https://img.shields.io/badge/🔀_Aaru_GitSimplified-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </a>
+      <br/><sub>Git workflow simplification CLI</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
 
 
 ## 🛠 Tech Stack
+<br>
 
 <div align="center">
 
