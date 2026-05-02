@@ -24,7 +24,7 @@
 
 ```python
 class AarushLohit:
-    name        = "Aarush Lohit"
+    name        = "Lohit"
     alias       = "aarushlohit"
     location    = "India 🇮🇳"
     role        = ["Security Researcher", "App Developer", "CS Student"]
@@ -37,16 +37,9 @@ class AarushLohit:
 
 ---
 
-## 🔐 Security Arsenal
 
-<div align="center">
 
-| Tool / Repo | Description | Stack |
-|:---:|:---|:---:|
-| 🎣 [PHISING-TOOL](https://github.com/aarushlohit/PHISING-TOOL) | Phishing simulation for security awareness & authorized pentests | `Python` `Flask` `HTML` |
-| 🐧 [Linux-proof](https://github.com/aarushlohit/Linux-proof) | Linux security hardening configs & proofs | `Shell` |
-
-> ⚠️ **Disclaimer**: All security tools are built strictly for **CTF, authorized penetration testing, and educational purposes**. Unauthorized use is illegal.
+ ⚠️ **Disclaimer**: All security tools are built strictly for **CTF, authorized penetration testing, and educational purposes**. Unauthorized use is illegal.
 
 </div>
 
