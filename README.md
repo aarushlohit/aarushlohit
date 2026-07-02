@@ -150,7 +150,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aarushlohit&theme=tokyonight&no-frame=true&row=1&column=6&no-bg=true" />
 
 </div>
 
@@ -195,6 +194,6 @@
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
-<sub>⚡ <i>289 contributions in 2026 · Breaking things ethically · Building in public</i> ⚡</sub>
+<sub>⚡ <i>600+ contributions in 2026 · Breaking things ethically · Building in public</i> ⚡</sub>
 
 </div>
