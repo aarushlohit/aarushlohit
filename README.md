@@ -194,6 +194,6 @@
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
-<sub>⚡ <i>600+ contributions in 2026 · Breaking things ethically · Building in public</i> ⚡</sub>
+<sub>⚡ <i>1.1k+ contributions in 2026 · Breaking things ethically · Building in public</i> ⚡</sub>
 
 </div>
